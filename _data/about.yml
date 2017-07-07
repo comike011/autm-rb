@@ -1,55 +1,49 @@
 text: |
 
-  Write something about yourself here using markdown.
+  Computer programmer living in Vancouver, WA. Pink Floyd obsessive.
 
-  ## Lists
+  ## Experience
+  
+  Life.io : CTO
 
-  Unordered
+  + 2013 - Present
+  + Headquarterd in Philadelphia, PA (worked remotely)
 
-  + Create a list by starting a line with `+`, `-`, or `*`
-  + Sub-lists are made by indenting 2 spaces:
-    - Marker character change forces new list start:
-      * Ac tristique libero volutpat at
-      + Facilisis in pretium nisl aliquet
-      - Nulla volutpat aliquam velit
-  + Very easy!
+  CentreSource : Senior Developer
 
-  Ordered
+  + 2011 - 2013
+  + Nashville, TN
 
-  1. Lorem ipsum dolor sit amet
-  2. Consectetur adipiscing elit
-  3. Integer molestie lorem at massa
+  Vanderbilt University : Computer Systems Analyst
 
+  + 2010 - 2011
+  + Nashville, TN
 
-  1. You can use sequential numbers...
-  1. ...or keep all the numbers as `1.`
+  Blenderbox Inc. : Developer
 
-  Start numbering with offset:
+  + 2007 - 2010
+  + Brooklyn, NY
 
-  57. foo
-  1. bar
+  Ocean-7 Development : Jr. Developer
 
-  ## Tables
+  + 2006 - 2007
+  + New York, NY
 
-  | Option | Description |
-  | ------ | ----------- |
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
+  ## Education
+  
+  St. John's University : Queens, NY
 
-  Right aligned columns
+  + Master's of Library and Information Science
+  + Graduated 2006
 
-  | Option | Description |
-  | ------:| -----------:|
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
+  Kalamazoo College : Kalamazoo, MI
+  
+  + Computer Science and History double major
+  + Graduated 2004
 
+  
+  ## Speaking
 
-  ## Links
+  Rails Conf 2016
 
-  [link text](https://github.com)
-
-  [link with title](https://github.com/ "title text!")
-
-  Autoconverted link https://github.com (enable linkify to see)
+  [How I Corrupted Survey Results and (Maybe) Runied a Business](https://www.youtube.com/watch?v=NFkym21cl4E)
