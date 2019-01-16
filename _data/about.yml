@@ -3,13 +3,18 @@ text: |
   Computer programmer living in Vancouver, WA. Pink Floyd obsessive.
 
   ## Experience
+
+  Stitch Fix : Lead Engineer
+
+  + 2018 - Present
+  + Headquarterd in San Fransisco, CA (worked remotely)
   
   Life.io : CTO
 
-  + 2013 - Present
+  + 2013 - 2018
   + Headquarterd in Philadelphia, PA (worked remotely)
 
-  CentreSource : Senior Developer
+  CentreSource : Lead Developer
 
   + 2011 - 2013
   + Nashville, TN
@@ -50,4 +55,4 @@ text: |
 
   Rails Conf 2018
 
-  [Continuous Deployments and Data Sovereignty: A Case Study](#)
+  [Continuous Deployments and Data Sovereignty: A Case Study](https://confreaks.tv/videos/railsconf2018-continuous-deployments-and-data-sovereignty-a-case-study)
