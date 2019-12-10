@@ -3,6 +3,11 @@ text: |
   Computer programmer living in Vancouver, WA. Pink Floyd obsessive.
   
   ## Experience
+  #
+  Invoca : Senior Engineer
+
+  + 2019 - Present
+  + Headquarterd in Santa Barbara, CA (worked remotely)
   
   Stitch Fix : Lead Engineer
 
@@ -48,7 +53,12 @@ text: |
 
   
   ## Speaking
+  Ruby Conf 2019
+
+  [The Singleton Module and Its Pattern In Ruby](https://www.youtube.com/watch?v=r8LwiJVVtzo)
+
   Pdx.rb 2019
+
   [How Do We Handle Errors](https://www.youtube.com/watch?v=phM_73b6kJE&list=PLw_tewW7y2HsEtNtxv64i0B5khVfJEmRW&index=3&t=0s)
 
   Rails Conf 2018
